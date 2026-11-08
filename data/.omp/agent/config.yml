@@ -1,0 +1,6 @@
+symbolPreset: unicode
+composer:
+  shape: pi
+theme:
+  dark: titanium
+setupVersion: 3
